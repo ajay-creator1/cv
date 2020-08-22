@@ -1,0 +1,20 @@
+
+hr {
+    background-color:darkgreen;
+}
+
+h3 {
+    background-color:  maroon;
+
+}
+
+ 
+img {
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+}
+
+.book {
+    background-color: white;
+}
